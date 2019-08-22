@@ -1,0 +1,14 @@
+Diferencia entre C y Js
+
+int: se utiliza para reemplazar el var del Js
+char: guarda caracteres
+
+Mascara sirve para indicar cosas: 
+%d indico que muestro un entero
+%c indico caracteres
+%f indico un float
+
+Para mostrar datos se usa printf
+Para tomar datos se usa scanf
+
+
